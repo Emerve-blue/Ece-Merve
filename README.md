@@ -1,2 +1,3 @@
 # Ece-Merve
-My personal repository
+
+Hi I look forward to share new ideas and projects.
